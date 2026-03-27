@@ -1,0 +1,44 @@
+{
+  "siteName": "CAP Digisoft Solutions",
+  "logoUrl": "https://capdigisoft.com/static/media/logo-light.7ce76383d4689c9800e7.png",
+  "themeColor": "",
+  "hero": {
+    "title": "Mobile App & Software Development",
+    "subtitle": "Forge Exceptional Software Solutions: Advance your Projects with efficient coding and technical expertise",
+    "ctaText": "Learn more",
+    "imageUrl": "https://capdigisoft.com/static/media/banner.fd2a628cb2e537403a9d.png"
+  },
+  "features": [
+    {
+      "id": 1,
+      "title": "Generative AI",
+      "description": "Unlock the Future of Efficiency: Harness Generative AI to make decisions quickly and empower your teams with trust",
+      "imageUrl": ""
+    },
+    {
+      "id": 2,
+      "title": "App Idea to Product",
+      "description": "Unlock the Future of Efficiency: Harness Foster Innovative Product Development: Propel your creations with efficient evaluation processes and expert guidance",
+      "imageUrl": ""
+    },
+    {
+      "id": 3,
+      "title": "Call Center Service",
+      "description": "Unlock the Future of Efficiency: Harness Elevate your Customer Support: Enhance your services with streamlined assessment methods and proficient supervision",
+      "imageUrl": ""
+    }
+  ],
+  "about": {
+    "title": "Our Solutions",
+    "content": "CAP Digisoft's Generative AI Framework, powered by state-of-the-art Large Language Models, makes adding AI to your products a more straightforward and secure way...",
+    "imageUrl": ""
+  },
+  "contact": {
+    "title": "Need help? Let’s talk",
+    "email": "info@capdigisoft.com",
+    "address": ""
+  },
+  "footer": {
+    "copyright": "© 2004 - 2026 CAP Digisoft Solutions, Inc. All Rights Reserved."
+  }
+}
